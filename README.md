@@ -3,7 +3,7 @@ A simple note taking app for iPhone built with Swift 3.
 
 I'll be updating the app in the coming days and weeks. This is more or less what you can expect for a roadmap.
 
-- Add support for rich-text-editing.
+- [x] Add support for rich-text-editing.
 - Add support for groups/notebooks.
 - Add trash/deleted group which self-purges.
 - Add support for sharing.
